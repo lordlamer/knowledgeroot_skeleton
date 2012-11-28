@@ -1,2 +1,2 @@
-knowledgeroot_skeleton
-======================
+Skeleton Module for Knowledgeroot2
+==================================
